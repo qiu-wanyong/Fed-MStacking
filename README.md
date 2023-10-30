@@ -10,11 +10,13 @@ Stuttering is a complicated language disorder. The most common  form of stutteri
 Preparation and Analysis of the Signals for PhysioNet/CinC Challenge Dataset:
 Since the study involves heterogeneous local models, as shown in Fig 1, we processed raw heart sound recordings based on two modalities. 
 1) Common acoustic signal features are extracted through the openSMILE toolkit and are used for ML models.
+   
 ``openSmile_raw": one-dimensional signal features from the raw recordings.
 
 ``openSmile_balanced": one-dimensional signal features from the balanced recordings.
 
-3) Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models. 
+3) Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models.
+   
 ``image_CWT_raw": two-dimensional image features from the raw recordings.
 
 ``image_CWT_balanced": two-dimensional image features from the balanced recordings.
