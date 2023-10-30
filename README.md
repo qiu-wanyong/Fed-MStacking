@@ -31,6 +31,6 @@ Since the study involves heterogeneous local models, as shown in Fig 1, we proce
 
 In the code above, the scalar function is trained by full test data. We point out that this scalar is nothing but means and variances. One can equivalently train a scalar given the mean and variance of each node and their proportions in real processes.
 
-## Remarks
+## Contact
 
 Please contact the authors of this work if you have any questions or comments.
