@@ -14,14 +14,15 @@ Since the study involves heterogeneous local models, as shown in Fig 1, we proce
 <div align="center">
 <img src="/results/data.jpg" width="400" height="400">
 </div>
+<div align="center">Fig.1 Illustration of pre-processing for heart sound recordings.</div>
 
-1) Common acoustic signal features are extracted through the openSMILE toolkit and are used for ML models.
+Common acoustic signal features are extracted through the openSMILE toolkit and are used for ML models.
    
 ``openSmile_raw": one-dimensional signal features from the raw recordings.
 
 ``openSmile_balanced": one-dimensional signal features from the balanced recordings.
 
-2) Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models.
+Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models.
    
 ``image_CWT_raw": two-dimensional image features from the raw recordings.
 
