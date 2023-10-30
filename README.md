@@ -30,7 +30,7 @@ Another modality involves image representation, where we adopted the continuous 
 
 ## Base Model
 
-The Federated Learner: Binary=(RF, ANN, CNN)
+The Federated Learner: Binary=(RF, FNN, CNN)
 
 gms: Gassian Mixture Models (List of GMMs)
 
