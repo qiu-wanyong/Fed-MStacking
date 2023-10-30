@@ -28,6 +28,19 @@ Another modality involves image representation, where we adopted the continuous 
 
 ``image_CWT_balanced": two-dimensional image features from the balanced recordings.
 
+## Base Model
+
+The Federated Learner: Binary=(RF, ANN, CNN)
+
+gms: Gassian Mixture Models (List of GMMs)
+
+The data to be decided (Acc, Se, Sp, UAR, UF1)
+
+clfs: The binary classifiers;(List of Classifiers)
+
+p_nodes: The proportion of the nodes; (List)
+
+
 ## Files
 
 ``Centralised_ensemble_learn.ipynb": We set up a set of baseline models based on data-centralised learning.
