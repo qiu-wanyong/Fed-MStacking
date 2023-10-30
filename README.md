@@ -15,18 +15,21 @@ Since the study involves heterogeneous local models, as shown in Fig 1, we proce
 
 ``openSmile_balanced": one-dimensional signal features from the balanced recordings.
 
-3) Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models.
+2) Another modality involves image representation, where we adopted the continuous wavelet transform (CWT) for sound-image transformation used in DL models.
    
 ``image_CWT_raw": two-dimensional image features from the raw recordings.
 
 ``image_CWT_balanced": two-dimensional image features from the balanced recordings.
 
 ## Files
+
 ``Centralised_ensemble_learn.ipynb": We set up a set of baseline models based on data-centralised learning.
 ``Fed_ensemble_learn.ipynb": We present two medical institutions with three clients respectively, and perform homogeneous and heterogeneous stacked FL based on the local model under balanced data. 
 
 ## Remarks
+
 In the code above, the scalar function is trained by full test data. We point out that this scalar is nothing but means and variances. One can equivalently train a scalar given the mean and variance of each node and their proportions in real processes.
 
 ## Remarks
+
 Please contact the authors of this work if you have any questions or comments.
