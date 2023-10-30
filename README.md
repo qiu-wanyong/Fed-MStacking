@@ -24,6 +24,7 @@ Since the study involves heterogeneous local models, as shown in Fig 1, we proce
 ## Files
 
 ``Centralised_ensemble_learn.ipynb": We set up a set of baseline models based on data-centralised learning.
+
 ``Fed_ensemble_learn.ipynb": We present two medical institutions with three clients respectively, and perform homogeneous and heterogeneous stacked FL based on the local model under balanced data. 
 
 ## Remarks
