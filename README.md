@@ -10,8 +10,9 @@ Stuttering is a complicated language disorder. The most common  form of stutteri
 Preparation and Analysis of the Signals for PhysioNet/CinC Challenge Dataset:
 Since the study involves heterogeneous local models, as shown in Fig 1, we processed raw heart sound recordings based on two modalities. 
 
+<div style="text-align:center">
 <img src="/results/data.jpg" width="400" height="400">
-
+</div>
 
 1) Common acoustic signal features are extracted through the openSMILE toolkit and are used for ML models.
    
