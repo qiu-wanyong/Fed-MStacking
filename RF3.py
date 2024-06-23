@@ -18,7 +18,7 @@ y = data['y']
 
 X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
 
-n_estimators_custom = 100
+n_estimators_custom = 50
 max_depth_custom = 10
 min_samples_split_custom = 5
 criterion_custom = 'gini'
