@@ -56,4 +56,4 @@ In the code above, the scalar function is trained by full test data. We point ou
 Please contact the authors of this work if you have any questions or comments.
 
 ## Cite As
-Wanyong Qiu, Yifan Feng, Yuying Li, Yi Chang, Kun Qian*, Bin Hu∗, Yoshiharu Yamamoto and Bjoern W. Schuller, “Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection”, IEEE JBHI, pp. 1-12, Submitted, October 2023.
+Wanyong Qiu, Yifan Feng, Yuying Li, Yi Chang, Kun Qian*, Bin Hu∗, Yoshiharu Yamamoto and Bjoern W. Schuller, “Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection”, IEEE JBHI, pp. 1-12, 2024.
