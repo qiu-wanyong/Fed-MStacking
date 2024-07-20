@@ -1,17 +1,8 @@
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
-
-# Sample data (please replace with your actual data)
 from matplotlib.font_manager import FontProperties
 
-recalls = [0.85, 0.72, 0.65]
-accs_full = [0.78, 0.68, 0.71]
-accs_b = [0.91, 0.89, 0.92]
-recalls_full_b = [0.92, 0.88, 0.91]
-precisions = [0.78, 0.75, 0.82]
-recalls_b = [0.92, 0.88, 0.91]
-prec_full_b = [0.91, 0.89, 0.92]
 
 #  同构 RF_blanced
 RF_homer_FL = []
