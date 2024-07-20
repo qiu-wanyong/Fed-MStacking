@@ -53,7 +53,12 @@ In the code above, the scalar function is trained by full test data. We point ou
 
 ## Contact
 
-Please contact the authors of this work if you have any questions or comments.
+Our work is ongoing. Based on this study, we are conducting follow-up research. Some of our new insights are below, welcome to exchange and share. 
+
+*) Integrating dynamic data changes into the federated learning (FL) modelling process to promptly evolve the model is crucial in medical modelling. Dynamic FL, based on federated class-incremental and continual learning, will be a key research area for extending our work.
+
+*) Combining swarm learning with FL has the potential to eliminate central servers during model training, allowing data and model updates to be exchanged directly between federated participants, further enhancing privacy protection in the FL system. 
 
 ## Cite As
-Wanyong Qiu, Yifan Feng, Yuying Li, Yi Chang, Kun Qian*, Bin Hu∗, Yoshiharu Yamamoto and Bjoern W. Schuller, “Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection”, IEEE JBHI, pp. 1-12, 2024.
+
+Qiu W, Feng Y, Li Y, et al. Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection[J]. IEEE Journal of Biomedical and Health Informatics, pp.1-12, 2024.
