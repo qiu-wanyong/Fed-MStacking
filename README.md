@@ -61,4 +61,4 @@ Our work is ongoing. Based on this study, we are conducting follow-up research. 
 
 ## Cite As
 
-Qiu W, Feng Y, Li Y, et al. Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection[J]. IEEE Journal of Biomedical and Health Informatics, pp.1-12, 2024.
+Qiu W, Feng Y, Li Y, et al. Fed-MStacking: Heterogeneous Federated Learning with Stacking Misaligned Labels for Abnormal Heart Sound Detection[J]. IEEE Journal of Biomedical and Health Informatics, vol.28, no.9, pp.5055-5066, Sept 2024.
